@@ -24,4 +24,4 @@ A simple weather widget built with HTML, CSS, and JavaScript. This widget displa
 
 ## Preview
 
-![Screenshot]()
+![Screenshot](Screenshot.png)

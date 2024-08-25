@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = 'd20c27fc1f020dd29958478b6dc8968c'; // Replace with your OpenWeatherMap API key
+    const apiKey = 'YOUR_APIKEY'; // Replace with your OpenWeatherMap API key
     const city = 'Chennai'; // Replace with the city you want to fetch weather for
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
 
